@@ -12,6 +12,9 @@ Este é um jogo desenvolvido no ambiente Scratch que explora conceitos básicos 
 - Interatividade
 - Design de sprites e cenários
 
+## 🔥  Importante!
+- Para jogar, utilize as setas da direita e esquerda para mover para os lados, seta de cima para bater na bola e fazer 1 ponto (o jogo termina com 10 points).
+
 ## 🚀 Tecnologias
 - Scratch (https://scratch.mit.edu/)
 
